@@ -27,6 +27,7 @@ body{
 }
 
 .contact-wrapper{
+  
   box-shadow: 0 0 20px 0 rgba(255, 255, 255, .3);
 }
 
@@ -103,6 +104,9 @@ body{
   padding: .3em;
 }
 
+.contact-info ul li i{
+  padding: .3em;
+}
 
 @media(min-width:700px){
   
