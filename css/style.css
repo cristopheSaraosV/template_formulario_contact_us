@@ -6,7 +6,7 @@ body{
   box-sizing: border-box;
   background: #1a1a1a;
   color: #ffff;
-  padding: 0 1.5em;
+  padding: 0 .2em;
 
 }
 
@@ -107,7 +107,7 @@ body{
 @media(min-width:700px){
   
   body{
-    padding: 0;
+    padding: 0 4em;
   }
 
   .contact-wrapper{
